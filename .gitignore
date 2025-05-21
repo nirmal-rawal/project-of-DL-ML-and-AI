@@ -74,4 +74,7 @@ Pipfile.lock
 
 # dotenv
 .envrc
-.env.* 
+.env.*
+
+# Large model files
+*.h5 
