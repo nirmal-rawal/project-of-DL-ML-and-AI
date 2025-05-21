@@ -67,9 +67,4 @@ The dataset contains images divided into three classes:
 | VGG16 (Transfer)    | 90.88%             | 90%           | ~74s/epoch    |
 | ResNet50 (Transfer) | 53.04%             | -             | ~71s/epoch    |
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/grocery-classification.git
 
