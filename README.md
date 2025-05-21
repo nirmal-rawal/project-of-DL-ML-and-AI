@@ -2,6 +2,9 @@
 
 This project implements Convolutional Neural Networks (CNNs) from scratch and utilizes transfer learning with pre-trained models (VGG16 and ResNet50) for classifying grocery items into three categories: Vegetables, Packages, and Fruit.
 
+![Screenshot 2025-05-16 155042](https://github.com/user-attachments/assets/b492fe94-8713-4420-92ce-8b48b508c6c0)
+![Screenshot 2025-05-16 155139](https://github.com/user-attachments/assets/ee9f0013-3644-4a4f-b84a-53f531bbf332)
+
 
 ## Dataset
 
