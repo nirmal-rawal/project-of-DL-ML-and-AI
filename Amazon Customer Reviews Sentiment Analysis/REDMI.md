@@ -5,7 +5,7 @@ This project analyzes customer reviews from Amazon to classify them as positive 
 
 ## Dataset
 The dataset contains Amazon customer reviews with:
-- Review text![Screenshot 2025-05-15 125229](https://github.com/user-attachments/assets/774ca2e8-72b5-4b9a-8a2a-661b320f21a6)
+- Review text
 
 - Product ratings (1-5 stars)
 - Sentiment labels (positive/negative)
