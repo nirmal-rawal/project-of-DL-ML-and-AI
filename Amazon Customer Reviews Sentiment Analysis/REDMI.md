@@ -1,7 +1,5 @@
 ## Project Overview
 This project analyzes customer reviews from Amazon to classify them as positive or negative sentiment using Natural Language Processing (NLP) techniques and machine learning models.
-
-
 ![Screenshot 2025-05-15 125229](https://github.com/user-attachments/assets/e639a8e4-47f0-4494-a02e-b298683deacd)
 ![Screenshot 2025-05-15 125605](https://github.com/user-attachments/assets/1e31cec1-5cc3-42eb-b2d5-871a05908706)
 
